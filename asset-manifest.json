@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CoroNOvirus/static/css/main.f61e63a8.chunk.css",
+    "main.js": "/CoroNOvirus/static/js/main.4d355893.chunk.js",
+    "main.js.map": "/CoroNOvirus/static/js/main.4d355893.chunk.js.map",
+    "runtime-main.js": "/CoroNOvirus/static/js/runtime-main.bf2f0ba7.js",
+    "runtime-main.js.map": "/CoroNOvirus/static/js/runtime-main.bf2f0ba7.js.map",
+    "static/js/2.a18e79ac.chunk.js": "/CoroNOvirus/static/js/2.a18e79ac.chunk.js",
+    "static/js/2.a18e79ac.chunk.js.map": "/CoroNOvirus/static/js/2.a18e79ac.chunk.js.map",
+    "index.html": "/CoroNOvirus/index.html",
+    "precache-manifest.5395bb4878ede48a7f8db0c350232cfb.js": "/CoroNOvirus/precache-manifest.5395bb4878ede48a7f8db0c350232cfb.js",
+    "service-worker.js": "/CoroNOvirus/service-worker.js",
+    "static/css/main.f61e63a8.chunk.css.map": "/CoroNOvirus/static/css/main.f61e63a8.chunk.css.map",
+    "static/js/2.a18e79ac.chunk.js.LICENSE.txt": "/CoroNOvirus/static/js/2.a18e79ac.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/CoroNOvirus/static/media/archia-thin-webfont.e88f1cf3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf2f0ba7.js",
+    "static/js/2.a18e79ac.chunk.js",
+    "static/css/main.f61e63a8.chunk.css",
+    "static/js/main.4d355893.chunk.js"
+  ]
+}
